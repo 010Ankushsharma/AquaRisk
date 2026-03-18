@@ -23,7 +23,7 @@ This project solves that by:
 We built a **regression-based machine learning model** that outputs a **continuous contamination score (0–100)** instead of simple safe/unsafe classification.
 
 ### 🔥 Why this is unique:
-- Continuous risk scoring (more precise)
+- Continuous risk scoring (more precise)..
 - Combines **water + weather + health data**
 - Real-time prediction capability
 - Explainable insights (why risk is high)..
