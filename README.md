@@ -10,7 +10,7 @@ It enables **early warning for water-borne diseases** in rural areas by providin
 ---
 
 ## 🎯 Problem Statement  
-Rural regions often face delayed detection of contaminated water, leading to outbreaks of diseases like diarrhea, cholera, and typhoid...
+Rural regions often face delayed detection of contaminated water, leading to outbreaks of diseases like diarrhea, cholera, and typhoid.
 
 This project solves that by:  
 - Monitoring multiple risk factors  
