@@ -26,7 +26,7 @@ We built a **regression-based machine learning model** that outputs a **continuo
 - Continuous risk scoring (more precise)
 - Combines **water + weather + health data**
 - Real-time prediction capability
-- Explainable insights (why risk is high)
+- Explainable insights (why risk is high)..
 
 
 
