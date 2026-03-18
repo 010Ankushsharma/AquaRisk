@@ -15,7 +15,7 @@ Rural regions often face delayed detection of contaminated water, leading to out
 This project solves that by:  
 - Monitoring multiple risk factors  
 - Predicting contamination severity using ML  
-- Enabling proactive decision-making  
+- Enabling proactive decision-making  ..
 
 ---
 
